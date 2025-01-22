@@ -1,0 +1,15 @@
+{
+  "name": "OFFICIAL BARRON TRUMP",
+  "symbol": "OBT",
+  "description": "An official token honoring Barron Trump.",
+  "image": "https://deromka.github.io/metadata/coinb/image.jpeg",
+  "attributes": [],
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "2cEktsQBvo2XFDrq2C36RSyoswwtRdFNoxUW3HGNHX2b",
+      "share": 100
+    }
+  ]
+}
+
