@@ -1,0 +1,16 @@
+{
+  "name": "AAVE",
+  "symbol": "AAVE",
+  "description": "Aave is a decentralized finance protocol that allows people to lend and borrow crypto.\nLenders earn interest by depositing digital assets into specially created liquidity pools. Borrowers can then use their crypto as collateral to take out a flash loan using this liquidity.\nAave (which means \'ghost\' in Finnish) was originally known as ETHLend when it launched in November 2017, but the rebranding to Aave happened in September 2018. (This helps explain why this token\'s ticker is so different from its name!)\nAAVE provides holders with discounted fees on the platform, and it also serves as a governance token — giving owners a say in the future development of the protocol.
+  ",
+  "image": "https://deromka.github.io/metadata/coina/image.jpeg",
+  "attributes": [],
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "2cEktsQBvo2XFDrq2C36RSyoswwtRdFNoxUW3HGNHX2b",
+      "share": 100
+    }
+  ]
+}
+
